@@ -4,5 +4,5 @@ pikachu
 umbreon
 mew
 garchomp
-riho
+rico
 good bye
