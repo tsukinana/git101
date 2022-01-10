@@ -9,4 +9,5 @@ red
 blue
 gold
 silver
+BW
 good bye
