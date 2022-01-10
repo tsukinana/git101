@@ -5,4 +5,6 @@ umbreon
 mew
 garchomp
 rico
+red
+blue
 good bye
