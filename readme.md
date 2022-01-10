@@ -7,4 +7,6 @@ garchomp
 rico
 red
 blue
+gold
+silver
 good bye
